@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf3816CC012D6f45De68E2e317F56F1017E97E8B8",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf3816CC012D6f45De68E2e317F56F1017E97E8B8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "RudeAngels",
+  "SYMBOL": "RUDE",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rudeangelsnft",
+  "SHOW_BACKGROUND": true
+}
